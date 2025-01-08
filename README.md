@@ -1,9 +1,6 @@
 ## Hi! Nice to meet you :) 
 
 - 🌱 Learning HTML5, CSS3 and JavaScript;
-- 📫 If you want to reach out to me, you can text me to andredalcorsi1@gmail.com
-- 😄 Pronouns: He/Him :: Ele/Dele
-
 
 <div align="center">
   <a href="https://github.com/andredelcorso">
